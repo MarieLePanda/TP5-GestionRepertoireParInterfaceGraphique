@@ -23,7 +23,7 @@ public class Repertoire {
 	public void affiche() {
 		
 		String description = toString();
-		System.out.println(description);
+		
 		
 	}
 	
