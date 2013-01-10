@@ -14,7 +14,7 @@ public class test {
 		//adresse2 = new Adresse("4 rue aux chats","6 rue aux chats","91710","Montlhéry");
 		personne2 = new Personne("Miné", "Laura", "4 rue aux chats  91710 Montlhéry", "01 28 12 36 78");
 		personne3 = new Personne("Guidé", "Brandon", "15 rue haute 91850 Bouray sur Juine", "01 25 69 84 32");
-		personne4 = new Personne("Guidé", "Océane", "15 rue haute 91850 Bouray sur Juine", "01 25 69 84 32");
+		personne4 = new Personne("Guidé", "Laurence", "15 rue haute 91850 Bouray sur Juine", "01 25 69 84 32");
 
 		repertoire1 = new Repertoire();
 		repertoire1.ajouterPersonne(personne1);
