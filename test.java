@@ -12,9 +12,9 @@ public class test {
 		//adresse1 = new Adresse("15 rue haute","","91850","Bouray sur Juine");
 		personne1 = new Personne("Guidé", "Loulou", "15 rue haute 91850 Bouray sur Juine", "01 25 69 84 32");
 		//adresse2 = new Adresse("4 rue aux chats","6 rue aux chats","91710","Montlhéry");
-		personne2 = new Personne("Miné", "Laura", "4 rue aux chats  91710 Montlhéry", "01 28 12 36 78");
+		personne2 = new Personne("Miné", "Louloute", "4 rue aux chats  91710 Montlhéry", "01 28 12 36 78");
 		personne3 = new Personne("Guidé", "Brandon", "15 rue haute 91850 Bouray sur Juine", "01 25 69 84 32");
-		personne4 = new Personne("Guidé", "Laurence", "15 rue haute 91850 Bouray sur Juine", "01 25 69 84 32");
+		personne4 = new Personne("Guidé", "Eric", "15 rue haute 91850 Bouray sur Juine", "01 25 69 84 32");
 
 		repertoire1 = new Repertoire();
 		repertoire1.ajouterPersonne(personne1);
